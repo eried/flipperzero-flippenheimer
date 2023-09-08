@@ -1,8 +1,15 @@
 # Flippenheimer
 
-## Apps
-https://github.com/nmrr/flipperzero-geigercounter
-https://github.com/nmrr/flipperzero-atomicdiceroller
+<img src="https://github.com/eried/flipperzero-flippenheimer/assets/1091420/9768f67e-29cb-4539-8895-fa7d6a0b4f31" width="200">
+
+## Compatible apps
+
+*  https://github.com/nmrr/flipperzero-geigercounter (credits to [nmrr](https://github.com/nmrr))
+*  https://github.com/nmrr/flipperzero-atomicdiceroller (credits to [nmrr](https://github.com/nmrr))
+
+## BUY
+
+You can [buy a kit or an assembled unit](https://www.tindie.com/products/31762/) from [Tindie](https://www.tindie.com/stores/eried/).
 
 ## DIY 
 
