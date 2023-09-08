@@ -13,16 +13,14 @@ You can [buy a kit or an assembled unit](https://www.tindie.com/products/31762/)
 
 ## DIY 
 
-### Option 1
+### Option 1: Full
 You can go full DIY with this Geiger Counter Kit https://s.click.aliexpress.com/e/_DkShdV9
 and follow the instructions from https://github.com/nmrr/flipperzero-geigercounter
 
 You only need some wires, pins and a 3.5mm headphone jack.
 
-### Option 2
+### Option 2: Assemble 
 If you got the prepopulated extra PCB, you need to solder few components:
-
-Certainly, here's the table with the "comments" column added at the end:
 
 | Location (PCB)         | Component                                       | Remarks                              |
 |------------------------|-------------------------------------------------|---------------------------------------|
