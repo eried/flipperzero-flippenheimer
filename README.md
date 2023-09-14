@@ -31,7 +31,7 @@ If you got the prepopulated extra PCB, you need to solder few components:
 | U80                    | [LM358 DIP8](https://s.click.aliexpress.com/e/_DE8xUTN) | Make sure the pin 1 is in the correct orientation |
 | L1                     | [100 uH Inductor](https://s.click.aliexpress.com/e/_DBEpF0F) | - |
 | L3                     | [10 mH Inductor](https://s.click.aliexpress.com/e/_DB6flLZ) | -  |
-| Q1, Q3, Q4                 | [2N3904 Transistor](https://s.click.aliexpress.com/e/_DediiMP) | Make sure is in the correct orientation |
+| Q1, Q3, Q4             | [2N3904 Transistor](https://s.click.aliexpress.com/e/_DediiMP) | Make sure is in the correct orientation |
 | Q2                     | [MPSA42 Transistor](https://s.click.aliexpress.com/e/_DFNv1ZH) | Make sure is in the correct orientation|
 | R100                   | [100 Ohm Potentiometer](https://s.click.aliexpress.com/e/_DC09Z4L) | Orientation does not matter |
 | C6, C7, C20            | [10nF 1kV Capacitor](https://s.click.aliexpress.com/e/_DFvC8n9) | -   |
@@ -40,3 +40,5 @@ If you got the prepopulated extra PCB, you need to solder few components:
 | D1, D2, D3             | [1N4937 Diode](https://s.click.aliexpress.com/e/_DFooson) | Make sure is in the correct orientation based on the band  |
 
 #### Calibration
+
+If you assembled the PCB, you need to calibrate it. First, check that the blue potentiometer is in the range of 50 ohms with a multimeter. Then carefully connect it to your Flipper Zero (there is high voltage parts, so be careful touching the board via the sides) and measure DC volts with your multimeter. Change the potentiometer until the voltage is around 360-380V
