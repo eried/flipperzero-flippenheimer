@@ -45,6 +45,7 @@ If you got the prepopulated extra PCB, you need to solder few components:
 | C1, C2                 | [100uF 50V Capacitor](https://s.click.aliexpress.com/e/_DFhqFOR) | Make sure the positive leg (longer) is in the correct orientation|
 | C21                    | [270pF 50V Capacitor](https://s.click.aliexpress.com/e/_Dc9j7ZN) | -  |
 | D1, D2, D3             | [1N4937 Diode](https://s.click.aliexpress.com/e/_DFooson) | Make sure is in the correct orientation based on the band  |
+| (for calibration) | [50M ohm resistor](https://s.click.aliexpress.com/e/_DBBHUUR) |  |
 
 #### Calibration
 
@@ -55,6 +56,6 @@ Only calibrate if you assembled the PCB. If it was pre-assembled, it is already 
 3) Set the multimeter to VDC, highest range (i.e. 400V).
 4) Connect GND to the multimeter (i.e. the left tube clamp)
 5) Connect the positive tube clamp to the multimeter positive probe, using 50M ohm in resistors between them
-6) Power the device and adjust R100 until your multimeter shows 57V (if is a 10M multimeter).
+6) Power the device and adjust R100 until your multimeter shows 57V (if is a 10M multimeter) or 6.5V (if is a 1M multimeter).
 
-The device is now calibrated. Now you can place the geiger tube. You might add a dab of glue to hold the potentiomenter R100 in place.
+**The device is now calibrated**. Now you can place the geiger tube. You might add a dab of glue to hold the potentiomenter R100 in place.
