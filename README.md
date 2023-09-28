@@ -48,4 +48,13 @@ If you got the prepopulated extra PCB, you need to solder few components:
 
 #### Calibration
 
-If you assembled the PCB, you need to calibrate it. First, check that the blue potentiometer is in the range of 50 ohms with a multimeter. Then carefully connect it to your Flipper Zero (there is high voltage parts, so be careful touching the board via the sides) and measure DC volts with your multimeter. Change the potentiometer until the DC voltage is around 175V
+Only calibrate if you assembled the PCB. If it was pre-assembled, it is already calibrated. You need 50M ohm resistors and a multimeter. Check more details about the process [here](http://f4fdw.free.fr/geiger/DIY%20Geiger%20Counter%20Radiation%20Detector%20Kit%20ver.2.pdf).
+
+1) Keep the device disconnected from power. Remove the geiger tube if is installed
+2) Adjust R100 to 50 ohms
+3) Set the multimeter to VDC, highest range (i.e. 400V).
+4) Connect GND to the multimeter (i.e. the left tube clamp)
+5) Connect the positive tube clamp to the multimeter positive probe, using 50M ohm in resistors between them
+6) Power the device and adjust R100 until your multimeter shows 57V (if is a 10M multimeter).
+
+The device is now calibrated. Now you can place the geiger tube. You might add a dab of glue to hold the potentiomenter R100 in place.
