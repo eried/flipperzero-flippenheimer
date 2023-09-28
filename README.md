@@ -1,5 +1,12 @@
 # Flippenheimer
 
+Since I love my Flipper Zero, I want to maximize its utility in every possible way. I use the great 
+akopachov's [Authenticator](https://github.com/akopachov/flipper-zero_authenticator) every day and [Mayhem v2](https://www.tindie.com/products/30630/) adds everything else I need... however, living in Norway, in close proximity to Russia, there's one essential addition that I believe should be considered: a Geiger Counter. 
+
+I saw some great projects, but I need something compact, solid, that I plug and it just works. The beauty of this Geiger Counter is that it seamlessly integrates with the Flipper, drawing power from it, uses its display, and stores the data to it. It's the perfect symbiosis, an essential addition to my toolkit.
+
+The design is heavily based on schematics using J305 for the flipper form factor.
+
 <img src="https://github.com/eried/flipperzero-flippenheimer/assets/1091420/9768f67e-29cb-4539-8895-fa7d6a0b4f31" width="200">
 
 ## Compatible apps
@@ -11,20 +18,20 @@
 
 You can [buy a kit or an assembled unit](https://www.tindie.com/products/31762/) from [Tindie](https://www.tindie.com/stores/eried/).
 
-## DIY 
+## DIY
 
-### Option 1: Full
+### Option 1: Full DIY route
 You can go full DIY with this Geiger Counter Kit https://s.click.aliexpress.com/e/_DkShdV9
 and follow the instructions from https://github.com/nmrr/flipperzero-geigercounter
 
 You only need some wires, pins and a 3.5mm headphone jack.
 
-### Option 2: Assemble 
+### Option 2: Flippenheimer PCB
 If you got the prepopulated extra PCB, you need to solder few components:
 
 | Location (PCB)         | Component                                       | Remarks                              |
 |------------------------|-------------------------------------------------|---------------------------------------|
-| (between F1 and F2/F3) | [J305 G-M Geiger Tube](https://s.click.aliexpress.com/e/_DCCjXox)  | -     |
+| (between F1 and F2/F3) | [J305 G-M Geiger Tube](https://s.click.aliexpress.com/e/_Dlvxtll)  | -     |
 | F1, F2, F3             | [Fuse holder 5x20mm](https://s.click.aliexpress.com/e/_DCeZjmB) | Check the length of your tube and solder only 2 holders   |
 |LS1|[Buzzer](https://s.click.aliexpress.com/e/_DCCKuQx) | - |
 | IC1, IC2               | [555 DIP8 Timer](https://s.click.aliexpress.com/e/_DDvdlk7) | Make sure the pin 1 is in the correct orientation   |
@@ -41,4 +48,4 @@ If you got the prepopulated extra PCB, you need to solder few components:
 
 #### Calibration
 
-If you assembled the PCB, you need to calibrate it. First, check that the blue potentiometer is in the range of 50 ohms with a multimeter. Then carefully connect it to your Flipper Zero (there is high voltage parts, so be careful touching the board via the sides) and measure DC volts with your multimeter. Change the potentiometer until the voltage is around 360-380V
+If you assembled the PCB, you need to calibrate it. First, check that the blue potentiometer is in the range of 50 ohms with a multimeter. Then carefully connect it to your Flipper Zero (there is high voltage parts, so be careful touching the board via the sides) and measure DC volts with your multimeter. Change the potentiometer until the DC voltage is around 175V
