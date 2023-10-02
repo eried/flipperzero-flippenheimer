@@ -1,6 +1,6 @@
 # Flippenheimer
 
-Since I love my Flipper Zero, I want to maximize its utility in every possible way. I use the great 
+I love my Flipper Zero, I want to maximize its utility in every possible way. I use the great 
 akopachov's [Authenticator](https://github.com/akopachov/flipper-zero_authenticator) every day and [Mayhem v2](https://www.tindie.com/products/30630/) adds everything else I need... however, living in Norway, in close proximity to Russia, there's one essential addition that I believe should be considered: a Geiger Counter. 
 
 I saw some great projects, but I need something compact, solid, that I plug and it just works. The beauty of this Geiger Counter is that it seamlessly integrates with the Flipper, drawing power from it, uses its display, and stores the data to it. It's the perfect symbiosis, an essential addition to my toolkit.
