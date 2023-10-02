@@ -11,8 +11,13 @@ The design is heavily based on schematics using J305 for the flipper form factor
 
 ## Compatible apps
 
-*  https://github.com/nmrr/flipperzero-geigercounter (credits to [nmrr](https://github.com/nmrr))
-*  https://github.com/nmrr/flipperzero-atomicdiceroller (credits to [nmrr](https://github.com/nmrr))
+* Geiger counter: https://github.com/nmrr/flipperzero-geigercounter (credits to [nmrr](https://github.com/nmrr))
+
+![image](https://i.imgur.com/pR0H5AOt.png) ![image](https://i.imgur.com/DNJpODQt.png)
+
+* Atomic dice roller: https://github.com/nmrr/flipperzero-atomicdiceroller (credits to [nmrr](https://github.com/nmrr))
+
+![image](https://i.imgur.com/Lg1I0Pxt.png) ![image](https://i.imgur.com/pC3x7yPt.png)
 
 ## BUY
 
