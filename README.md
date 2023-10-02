@@ -11,13 +11,25 @@ The design is heavily based on schematics using J305 for the flipper form factor
 
 ## Compatible apps
 
-* Geiger counter: https://github.com/nmrr/flipperzero-geigercounter (credits to [nmrr](https://github.com/nmrr))
+### [Geiger counter](https://github.com/nmrr/flipperzero-geigercounter)
+
+This app gives you a graph view with counts per second (instantaneous measure of the radioactivity) as CPS and per minute as CPM.
+
+There is extra functionality to record, zoom, change units, etc.
 
 ![image](https://i.imgur.com/pR0H5AOt.png) ![image](https://i.imgur.com/DNJpODQt.png)
 
-* Atomic dice roller: https://github.com/nmrr/flipperzero-atomicdiceroller (credits to [nmrr](https://github.com/nmrr))
+(credits to [nmrr](https://github.com/nmrr))
+
+### [Atomic dice roller](https://github.com/nmrr/flipperzero-atomicdiceroller)
+ 
+With this app you can get a really random dice based on the geiger counter. Make your decisions and board games extra exciting.
 
 ![image](https://i.imgur.com/Lg1I0Pxt.png) ![image](https://i.imgur.com/pC3x7yPt.png)
+
+(credits to [nmrr](https://github.com/nmrr))
+
+# Build or buy
 
 ## BUY
 
