@@ -5,7 +5,7 @@ akopachov's [Authenticator](https://github.com/akopachov/flipper-zero_authentica
 
 I saw some great approaches to this, but I need something that just works, no fiddling around. The beauty of this Geiger Counter is that it seamlessly integrates with the Flipper, drawing power from it, uses its display, and stores the data to it. It's the perfect symbiosis, an essential addition to my toolkit.
 
-The design is heavily based on schematics using J305 for the flipper form factor.
+The design is heavily based on schematics using a J305 Geiger–Müller tube for the flipper form factor.
 
 <img src="https://github.com/eried/flipperzero-flippenheimer/assets/1091420/9768f67e-29cb-4539-8895-fa7d6a0b4f31" width="200">
 
