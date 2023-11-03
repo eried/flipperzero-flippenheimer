@@ -7,7 +7,7 @@ I saw some great approaches to this, but I need something that just works, no fi
 
 The design is heavily based on schematics using a J305 Geiger–Müller tube for the flipper form factor.
 
-<img src="https://github.com/eried/flipperzero-flippenheimer/assets/1091420/9768f67e-29cb-4539-8895-fa7d6a0b4f31" width="200">
+<img src="https://github.com/eried/flipperzero-flippenheimer/assets/1091420/7fcb22d8-ab54-4fef-bdee-1291296785e6" width="200">
 
 ## Compatible apps
 
