@@ -57,7 +57,7 @@ If you got the prepopulated extra PCB, you need to solder few components:
 | L3                     | [10 mH Inductor](https://s.click.aliexpress.com/e/_DB6flLZ) | -  |
 | Q3, Q4, Q5             | [2N3904 Transistor](https://s.click.aliexpress.com/e/_DediiMP) | Make sure is in the correct orientation |
 | Q2                     | [MPSA42 Transistor](https://s.click.aliexpress.com/e/_DFNv1ZH) | Make sure is in the correct orientation|
-| R100                   | [100 Ohm Potentiometer](https://s.click.aliexpress.com/e/_DC09Z4L) | Orientation does not matter |
+| R100                   | [100 Ohm Potentiometer](https://s.click.aliexpress.com/e/_DDNdLm5) | Orientation does not matter |
 | C6, C7, C20            | [10nF 1kV Capacitor](https://s.click.aliexpress.com/e/_DFvC8n9) | -   |
 | C1, C2                 | [100uF 25V Capacitor](https://s.click.aliexpress.com/e/_Delvjov) | Make sure the positive leg (longer) is in the correct orientation|
 | C21                    | [270pF 50V Capacitor](https://s.click.aliexpress.com/e/_Dc9j7ZN) | -  |
