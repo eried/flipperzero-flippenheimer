@@ -48,10 +48,10 @@ If you got the prepopulated extra PCB, you need to solder few components:
 
 | Location (PCB)         | Component                                       | Remarks                              |
 |------------------------|-------------------------------------------------|---------------------------------------|
-| (between F1 and F2/F3) | [J305 G-M Geiger Tube](https://s.click.aliexpress.com/e/_Dlvxtll)  | -     |
-| F1, F2, F3             | [Fuse holder 5x20mm](https://s.click.aliexpress.com/e/_DCeZjmB) | Check the length of your tube and solder only 2 holders   |
+| (between F1 and F2/F3) | [J305 G-M Geiger Tube](https://s.click.aliexpress.com/e/_DEu46NL)  | -     |
+| F1, F2, F3             | [Fuse holder 5x20mm](https://s.click.aliexpress.com/e/_DF8lbGl) | Check the length of your tube and solder only 2 holders   |
 |LS1|[Buzzer](https://s.click.aliexpress.com/e/_DCCKuQx) | You can try different versions of buzzers, some do the "clicky" sound, some do the "beepy" sound |
-| IC1, IC2               | [555 DIP8 Timer](https://s.click.aliexpress.com/e/_DDvdlk7) | Make sure the pin 1 is in the correct orientation   |
+| IC1, IC2               | [555 DIP8 Timer](https://s.click.aliexpress.com/e/_DcIK5Ul) | Make sure the pin 1 is in the correct orientation   |
 | U80                    | [LM358 DIP8](https://s.click.aliexpress.com/e/_DE8xUTN) | Make sure the pin 1 is in the correct orientation |
 | L1                     | [100 uH Inductor](https://s.click.aliexpress.com/e/_DBEpF0F) | - |
 | L3                     | [10 mH Inductor](https://s.click.aliexpress.com/e/_DB6flLZ) | -  |
@@ -60,8 +60,8 @@ If you got the prepopulated extra PCB, you need to solder few components:
 | R100                   | [100 Ohm Potentiometer](https://s.click.aliexpress.com/e/_DDNdLm5) | Orientation does not matter |
 | C6, C7, C20            | [10nF 1kV Capacitor](https://s.click.aliexpress.com/e/_DFvC8n9) | -   |
 | C1, C2                 | [100uF 25V Capacitor](https://s.click.aliexpress.com/e/_Delvjov) | Make sure the positive leg (longer) is in the correct orientation|
-| C21                    | [270pF 50V Capacitor](https://s.click.aliexpress.com/e/_Dc9j7ZN) | -  |
-| D1, D2, D3             | [1N4937 Diode](https://s.click.aliexpress.com/e/_DFooson) | Make sure is in the correct orientation based on the band  |
+| C21                    | [270pF 50V Capacitor](https://s.click.aliexpress.com/e/_DEmeLT3) | -  |
+| D1, D2, D3             | [1N4937 Diode](https://s.click.aliexpress.com/e/_DBlhCPP) | Make sure is in the correct orientation based on the band  |
 | (for calibration) | [50M ohm resistor](https://s.click.aliexpress.com/e/_DBBHUUR) |  |
 
 #### Calibration
