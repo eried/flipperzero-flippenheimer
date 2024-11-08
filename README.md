@@ -50,7 +50,7 @@ If you got the prepopulated extra PCB, you need to solder few components:
 |------------------------|-------------------------------------------------|---------------------------------------|
 | (between F1 and F2/F3) | [J305 G-M Geiger Tube](https://s.click.aliexpress.com/e/_DEu46NL)  | -     |
 | F1, F2, F3             | [Fuse holder 5x20mm](https://s.click.aliexpress.com/e/_DF8lbGl) | Check the length of your tube and solder only 2 holders   |
-|LS1|[Buzzer](https://s.click.aliexpress.com/e/_DCCKuQx) | You can try different versions of buzzers, some do the "clicky" sound, some do the "beepy" sound |
+|LS1|[Buzzer](https://s.click.aliexpress.com/e/_DmFBoz7) | You can try different versions of buzzers, some do the "clicky" sound (pasive), some do the "beepy" sound (active) |
 | IC1, IC2               | [555 DIP8 Timer](https://s.click.aliexpress.com/e/_DcIK5Ul) | Make sure the pin 1 is in the correct orientation   |
 | U80                    | [LM358 DIP8](https://s.click.aliexpress.com/e/_DE8xUTN) | Make sure the pin 1 is in the correct orientation |
 | L1                     | [100 uH Inductor](https://s.click.aliexpress.com/e/_DBEpF0F) | - |
