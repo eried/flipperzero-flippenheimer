@@ -38,8 +38,7 @@ You can [buy a kit or an assembled unit](https://www.tindie.com/products/31762/)
 ## DIY
 
 ### Option 1: Full DIY route
-You can go full DIY with this Geiger Counter Kit https://s.click.aliexpress.com/e/_DkShdV9
-and follow the instructions from https://github.com/nmrr/flipperzero-geigercounter
+You can go full DIY with a [Geiger Counter Kit](https://s.click.aliexpress.com/e/_oovR4M9) and follow the instructions from https://github.com/nmrr/flipperzero-geigercounter
 
 You only need some wires, pins and a 3.5mm headphone jack.
 
