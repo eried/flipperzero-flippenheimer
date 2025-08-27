@@ -66,7 +66,7 @@ If you got the prepopulated extra PCB, you need to solder few components:
 
 #### Calibration
 
-Only calibrate if you assembled the PCB. If it was pre-assembled, it is already calibrated. You need 50M ohm resistors and a multimeter. Check more details about the process [here](http://f4fdw.free.fr/geiger/DIY%20Geiger%20Counter%20Radiation%20Detector%20Kit%20ver.2.pdf).
+Only calibrate if you assembled the PCB. If it was pre-assembled, it is already calibrated. You need 50M ohm resistors and a multimeter. Check more details about the process [here](https://github.com/SensorsIot/Geiger-Counter-RadiationD-v1.1-CAJOE-/blob/master/En_Calibration_GMv1.1.pdf).
 
 1) Keep the device disconnected from power. Remove the geiger tube if is installed
 
