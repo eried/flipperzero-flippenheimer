@@ -62,7 +62,7 @@ If you got the prepopulated extra PCB, you need to solder few components:
 | C1, C2                 | [100uF 25V Capacitor](https://s.click.aliexpress.com/e/_olwpVN5) | Make sure the positive leg (longer) is in the correct orientation|
 | C21                    | [270pF 50V Capacitor](https://s.click.aliexpress.com/e/_oFtnLKJ) | -  |
 | D1, D2, D3             | [1N4937 Diode](https://s.click.aliexpress.com/e/_oodGWzt) | Make sure is in the correct orientation based on the band  |
-| (for calibration) | [50M ohm resistor](https://s.click.aliexpress.com/e/_olYHzz5) | Any resistor kit will do, just combine them in series to 50M ohm |
+| (for calibration) | [50M ohm resistor](https://s.click.aliexpress.com/e/_oF3jKvf) | Any resistor kit will do, combine them in series to 50M ohm |
 | (pin headers)       | [2.54mm angled pin headers](https://s.click.aliexpress.com/e/_okcglvh) | You need 10P and 8P, but you can cut them down to size, so 10P works for both |
 
 #### Calibration
